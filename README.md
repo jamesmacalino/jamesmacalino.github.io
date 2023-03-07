@@ -1,4 +1,4 @@
-James' GitHub 
+##James' GitHub 
 
 This repository contains project work I created as part of my coursework within the MIT MERN Full Stack Coding Bootcamp.
 
