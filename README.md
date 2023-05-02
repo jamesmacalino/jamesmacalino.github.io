@@ -10,7 +10,7 @@
   --when the program is executed, the eyes follow the mouse cursor
 ## real time bus tracker exercise
   --when the title bar at the top of the display is engaged, the viewer is shown the bus route in real time
-## pacmen
+## pacmen 
   --when the program is executed, the player should initially press the "Start" bar to initiate the game then press "Add Pacman" button.  Subsequent presses of either bar increases the velocity of pacman and adds another pacman respectively.
   
 
